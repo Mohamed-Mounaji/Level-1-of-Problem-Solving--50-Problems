@@ -1,0 +1,4 @@
+﻿  problem_23.cpp
+C:\Users\lenovo\Desktop\CPP Files\problem_23\problem_23.cpp(8,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lenovo\Desktop\CPP Files\problem_23\problem_23.cpp(24,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  problem_23.vcxproj -> C:\Users\lenovo\Desktop\CPP Files\problem_23\x64\Debug\problem_23.exe

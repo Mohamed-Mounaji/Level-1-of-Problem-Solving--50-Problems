@@ -1,0 +1,6 @@
+﻿  problem_34.cpp
+C:\Users\lenovo\Desktop\CPP Files\problem_34\problem_34.cpp(13,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lenovo\Desktop\CPP Files\problem_34\problem_34.cpp(17,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lenovo\Desktop\CPP Files\problem_34\problem_34.cpp(21,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lenovo\Desktop\CPP Files\problem_34\problem_34.cpp(25,16): warning C4305: '=': truncation from 'double' to 'float'
+  problem_34.vcxproj -> C:\Users\lenovo\Desktop\CPP Files\problem_34\x64\Debug\problem_34.exe

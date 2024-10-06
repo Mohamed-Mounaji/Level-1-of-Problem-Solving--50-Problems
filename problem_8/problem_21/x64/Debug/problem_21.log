@@ -1,0 +1,3 @@
+﻿  problem_21.cpp
+C:\Users\lenovo\Desktop\CPP Files\problem_21\problem_21.cpp(8,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+  problem_21.vcxproj -> C:\Users\lenovo\Desktop\CPP Files\problem_21\x64\Debug\problem_21.exe

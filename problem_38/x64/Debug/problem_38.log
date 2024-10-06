@@ -1,0 +1,5 @@
+﻿  problem_38.cpp
+C:\Users\lenovo\Desktop\CPP Files\problem_38\problem_38.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lenovo\Desktop\CPP Files\problem_38\problem_38.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lenovo\Desktop\CPP Files\problem_38\problem_38.cpp(24,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  problem_38.vcxproj -> C:\Users\lenovo\Desktop\CPP Files\problem_38\x64\Debug\problem_38.exe

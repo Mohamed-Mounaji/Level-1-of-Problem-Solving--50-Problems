@@ -1,0 +1,3 @@
+﻿  problem_47.cpp
+C:\Users\lenovo\Desktop\CPP Files\problem_47\problem_47.cpp(16,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  problem_47.vcxproj -> C:\Users\lenovo\Desktop\CPP Files\problem_47\x64\Debug\problem_47.exe
